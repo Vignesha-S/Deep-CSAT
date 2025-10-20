@@ -54,12 +54,12 @@ By leveraging historical records and service attributes, the model identifies ke
 ```
 
 Deep-CSAT/
-├── data/
-├── models/
-├── notebooks/
+├── eCommerce_Customer_support_data.csv
+├── csat_prediction.ipynb
+├── deepcsat_scaler.joblib
+├── deepcsat_model.h5
 ├── requirements.txt
-├── README.md
-└── .gitignore
+└── README.md
 
 ```
 
